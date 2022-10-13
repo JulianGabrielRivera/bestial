@@ -18,7 +18,7 @@ export default function Navbar() {
         </div>
       </nav>
       <div className="auth">
-        <Link to="/login">Barbers</Link>
+        <Link to="/signup/barber">Barbers</Link>
 
         <Link to="/signup">Sign Up</Link>
         <Link to="/login">Sign In</Link>
